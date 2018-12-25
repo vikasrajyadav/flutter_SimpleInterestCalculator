@@ -1,4 +1,4 @@
-# flutter_demo
+# Simple Interest Calculator
 
 A new Flutter project.
 
